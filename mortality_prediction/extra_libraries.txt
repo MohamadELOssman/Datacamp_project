@@ -1,7 +1,0 @@
-scipy
-tensorflow-cpu
-torch  # pytorch-cpu
-torchvision # torchvision-cpu
-lightgbm
-xgboost
-catboost
